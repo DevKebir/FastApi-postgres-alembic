@@ -72,8 +72,8 @@ Make sure to run these commands in the terminal after making any changes to your
 - **DELETE /delete-user**: Delete a user by user ID.
 
 ### How to Run
-- **Run the FastAPI application with :
+- Run the FastAPI application with :
   ```bash
    uvicorn main:app --reload.
    ```
-- **Access the API at http://127.0.0.1:8000.
+- Access the API at http://127.0.0.1:8000.
