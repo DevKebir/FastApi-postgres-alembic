@@ -9,7 +9,7 @@ This is a simple Users RESTful API built with Python and the FastAPI framework. 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/DevKebir/FastApi-postgres-alembic.git
+    git clone https://github.com/abkebir/FastApi-postgres-alembic.git
     cd your-repository
     ```
 
